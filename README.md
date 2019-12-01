@@ -1,4 +1,4 @@
-# optimization-
+# optimization
 Optimizing Human Resource Allocation in Organization 
 
 This study discussed about human resource allocation using linear programming to help in achieving optimal performanceand reducing manpower wastage
