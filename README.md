@@ -12,3 +12,11 @@ The constraints have been identified as below:
 2. position constraint
 3. job satisfaction constraint
 4. Working experience of manager constraint
+
+Findings
+30 employees are selected with the maximize value of the objective function. 
+The total salary is $169,640 which is less than $200,000. 
+The result shows the total number of candidates for each job role as predefined. 
+The working experience of all the manager is less than 32 years. 
+The job satisfaction rating for each candidate is more than or equal to 3. 
+Thus, the optimal value of the objective function (performance rating) found in the feasible region is 119.
